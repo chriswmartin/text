@@ -6,4 +6,4 @@ share: true
   
 Let’s see how well this works.  
   
-Linking to [The Beginning](The%20Beginning).
+Linking to [The Beginning](the-beginning).
