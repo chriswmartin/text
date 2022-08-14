@@ -1,3 +1,0 @@
-# The Beginning
-
-Hello, world!
