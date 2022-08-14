@@ -6,4 +6,4 @@ share: true
   
 Let’s see how well this works.  
   
-Linking to [[the-beginning|The Beginning]].
+Linking to [The Beginning](the-beginning).
