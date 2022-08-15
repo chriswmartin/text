@@ -12,8 +12,6 @@ date: 2022-08-14 20:30
   
 ![](../assets/images/IMG_4813.jpg)  
   
-![](../assets/images/IMG_4813.jpg)  
-  
 ### Building frame  
 - ==TODO:== 2x6s  
   
