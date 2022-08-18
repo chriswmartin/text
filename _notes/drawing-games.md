@@ -20,4 +20,7 @@ One person draws a quick random scribble on a sheet of paper then passes it to t
 Each student randomly draws five dots on a piece of paper then, after trading with a neighbor, uses those dots to draw a person. One dot is where the head is, one for each leg, one for each arm. This is also fun to play as a full class on the whiteboard with each student taking a turn to come up and either draw the dots or complete the figure.  
   
 ## Secret Drawing  
-Pair up. Each student draws something without showing their partner. Then the partner tries to recreate the drawing as well as they can. You aren’t allowed to say the name of what you drew (“a house”) — only descriptions (“a big square with a triangle on top”). How detailed and accurate your partner’s drawing is depends how descriptive you can be and how well you can communicate.
+Pair up. Each student draws something without showing their partner. Then the partner tries to recreate the drawing as well as they can. You aren’t allowed to say the name of what you drew (“a house”) — only descriptions (“a big square with a triangle on top”). How detailed and accurate your partner’s drawing is depends how descriptive you can be and how well you can communicate.  
+  
+## Four things you can’t live without  
+Each student divides a sheet of paper into quadrants and then draws a picture in each section that represents something important to them. No words allowed. Once finished the students hold up their papers and their peers try to guess what they drew.
