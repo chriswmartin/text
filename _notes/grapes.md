@@ -1,6 +1,7 @@
 ---  
 share: true  
 date: 2022-05-11 12:30  
+modified: 2022-08-28 12:00  
 ---  
   
 # Growing grapes  
@@ -23,4 +24,9 @@ I purchased both Red Flame and Himrod four year old hardwood rootstocks from [ty
   
 **May 11th:** I planted both grape stocks in the ground in an area that gets full sun. It is not clear whether either stock has any additional root growth than the day I received them.  
   
-**May 19th:** No major growth from either plant. The Red Flame has some green wood under the bark and small amounts of root growth. The Himrod has neither. I transplanted the Himrod to a small container to make room for other plants and left the Red Flame in the ground.
+**May 19th:** No major growth from either plant. The Red Flame has some green wood under the bark and small amounts of root growth. The Himrod has neither. I transplanted the Himrod to a small container to make room for other plants and left the Red Flame in the ground.  
+  
+**August 28th:** After checking on the Red Flame for the first time in a few months I noticed that it finally has some new growth — a new shoot at the base of the rootstock.  
+  
+![](../assets/images/IMG_4898.jpg)  
+  
