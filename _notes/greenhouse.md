@@ -8,7 +8,11 @@ date: 2022-08-14 20:30
 ## Cut list  
 ### Window frames  
 - One window frame requires one 1x4x8 and one 1x2x8  
-	- 2) 21.5” 1x4, 2) 23” 1x4, 4) 21” 1x2  
+	- 1x4  
+		- 2) 21.5” 1x4  
+		- 2) 23” 1x4  
+	- 1x2  
+		- 4) 21” 1x2  
   
 ![](../assets/images/IMG_4813.jpg)  
   
