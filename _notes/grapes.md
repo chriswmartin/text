@@ -26,7 +26,7 @@ I purchased both Red Flame and Himrod four year old hardwood rootstocks from [ty
   
 **May 19th:** No major growth from either plant. The Red Flame has some green wood under the bark and small amounts of root growth. The Himrod has neither. I transplanted the Himrod to a small container to make room for other plants and left the Red Flame in the ground.  
   
-**August 28th:** After checking on the Red Flame for the first time in a few months I noticed that it finally has some new growth — a new shoot at the base of the rootstock.  
+**August 28th:** Today after checking on the Red Flame for the first time in a few months I noticed that it finally has some growth — a new shoot at the base of the rootstock. I ended up throwing out the Himrod a month or two ago after not seeing any progress.  
   
 ![](../assets/images/IMG_4898.jpg)  
   
