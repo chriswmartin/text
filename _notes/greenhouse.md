@@ -17,7 +17,7 @@ date: 2022-08-14 20:30
 ![](../assets/images/IMG_4813.jpg)  
   
 ### Building frame  
-- ==TODO:== 2x6s  
+- ==TODO:== 2x6s... etc  
   
 ## Drawings  
 ![](../assets/images/greenhouse_plans.png)
