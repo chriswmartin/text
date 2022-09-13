@@ -6,7 +6,7 @@ modified: 2022-08-28 12:00
   
 # Growing grapes  
   
-## Grape varietys  
+## Grape varieties  
   
 - **Red flame**  
   - Seedless  
